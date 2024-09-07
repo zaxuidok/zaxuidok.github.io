@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://zaxuidok.github.io/sitemap/sitemap.txt
